@@ -2,8 +2,8 @@
 
 ## Student
 
-- Name: Your Name
-- Student ID: Your Student ID
+- Name: Nimra Sayyad
+- Student ID: 10601
 
 ## About This Repository
 
